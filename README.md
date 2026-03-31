@@ -1,8 +1,9 @@
 About this file:
 - This is README.md template. 
-- READMEs are where you can communicate what your project is and how to use it.
-- Elements in beautiful READMEs include, but are not limited to images, screenshots, GIFs, text formatting, etc.
-- [Other helpfull README examples](https://github.com/matiassingers/awesome-readme?tab=readme-ov-file)
+- Handle as appropriate:
+  - READMEs are where you can communicate what your project is and how to use it.
+  - Beautiful READMEs can include images, screenshots, GIFs, text formatting, etc.
+  - [See other README examples](https://github.com/matiassingers/awesome-readme?tab=readme-ov-file)
 ---
 
 # Project Name

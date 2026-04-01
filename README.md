@@ -1,9 +1,11 @@
 About this file:
 - This is README.md template. 
-- Handle as appropriate:
-  - READMEs are where you can communicate what your project is and how to use it.
+- Fill it in as necessary and handle it as appropriate.
+  - READMEs are where you can communicate:
+    - describe what your project is, 
+    - explain how to use it.
   - Beautiful READMEs can include images, screenshots, GIFs, text formatting, etc.
-  - [See other README examples](https://github.com/matiassingers/awesome-readme?tab=readme-ov-file)
+- [See other README examples on GitHub](https://github.com/matiassingers/awesome-readme?tab=readme-ov-file)
 ---
 
 # Project Name
